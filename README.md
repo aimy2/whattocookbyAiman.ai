@@ -140,7 +140,6 @@ ollama list
 ollama run llama3.2
 ```
 
-Close the interactive model prompt with `Ctrl+C`, then refresh the app. If you configured another model in `.env.local`, make sure the model name exactly matches the output of `ollama list`.
 
 ### `npm run dev` fails
 
